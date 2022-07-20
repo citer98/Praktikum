@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Home</title>
+    <title>Penghitung</title>
         <style type="text/css">
     .element {
         position: relative;
